@@ -23,6 +23,8 @@ Just try:
 
 python3 train_lenet.py
 
+A tutorial is [ here ](https://github.com/yao-lab/FSplitLBI/blob/master/FuSplit_LBI_tutorial.pdf).
+
 ## Reference:
 
 [1] Chendi Huang, Xinwei Sun, Jiechao Xiong, Yuan Yao. Split LBI: An Iterative Regularization Path with Structural Sparsity. NIPS 2016. [ (paper) ](https://papers.nips.cc/paper/6288-split-lbi-an-iterative-regularization-path-with-structural-sparsity "NIPS online")
