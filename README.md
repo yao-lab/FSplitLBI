@@ -1,7 +1,6 @@
 # FSplitLBI
 ## Fudan-university implementation of Split Linearized Bregman Iteration for Parsimonious Deep Learning
 
-##
     We present the  Fudan Split Linearized Bregman Iteration toolbox (FSplitLBI Toolbox), which offers a strong and versatile functionality for training of Deep Neural Networks (DNNs). 
     The FSplitLBI extends the Split Linearized Bregman Iteration [1] (SLBI) algorithm in linear model [2] to learn the parameters of deep networks. The key novelty of our FSplitLBI lies 
     in a parsimonious learning of the structural sparsity of networks with provable statistical consistency, with the comparable computational cost to  Stochastic Gradient Descendent (SGD) and SGD variants.  In our recent 
